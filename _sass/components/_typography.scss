@@ -17,13 +17,18 @@ html{
     font-size: 15px;
   }
 
-  font-family: "Roboto", sans-serif;
+  font-family: "Sansita", serif;
   font-weight: normal;
   color: $off-black;
 }
-h1, h2, h3, h4, h5, h6 {
-	font-weight: 400;
+h1, h2, h3 {
+	font-weight: 500;
 	line-height: 1.1;
+}
+
+h4, h5, h6 {
+  font-weight: 400;
+  line-height: 1.1;
 }
 
 // Header Styles
